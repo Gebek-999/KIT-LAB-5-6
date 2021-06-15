@@ -1,1 +1,0 @@
-https://xzecret.netlify.app/
